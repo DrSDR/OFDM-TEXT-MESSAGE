@@ -15,12 +15,21 @@ the signal has a pulse at the start 1024 sample long
 after the pulse is a 100 sample gap in time
 
 so the whole signal is
+
 pulse 1024 samples
+
 gap  100 samples
+
 pilot block cp = 96 samples
+
 pilot block = 1024 samples
+
 data block cp = 96 samples
+
 data block = 1024 samples
+
+
+
 
 text is 96 char or 768 bits
 bits are bpsk mod
