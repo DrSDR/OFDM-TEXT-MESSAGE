@@ -41,6 +41,19 @@ the signal does have a freq offset,  use the pulse for sync and freq offset meas
 text has amazon gift card
 
 
+first 8 bits are:  01110011
+
+msb is sent first
+each char is 8bits long
+
+
+data block phase is related to the pilot block
+
+good luck
+
+
+
+
 
 
 
